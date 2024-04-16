@@ -3,6 +3,7 @@ fast api를 이용한 붓꽅분류, 영화추천시스템 제작
 
 # 붓꽃분류시스템
 개발환경
+<br>
 certifi==2024.2.2
 charset-normalizer==3.3.2
 colorama==0.4.6

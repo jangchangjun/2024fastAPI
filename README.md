@@ -1,16 +1,35 @@
 # 2024fastApi
-fast api를 이용한 붓꽅분류, 영화추천시스템 제작
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
-</div> 
+
+## fast api를 이용한 붓꽅분류, 영화추천시스템 제작
+
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+    <img src=https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi>
+  <img src=https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white>
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+
+  <br>
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 # 붓꽃분류시스템
+
+- iris 데이터셋을 이용한 붓꽃 분류 시스템
+
+- 
+
 개발환경
-<br>
+<br/>
 certifi==2024.2.2
 charset-normalizer==3.3.2
 colorama==0.4.6
